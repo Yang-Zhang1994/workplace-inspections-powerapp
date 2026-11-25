@@ -1,0 +1,5 @@
+Title,InspectionGroup,Building,Room,InspectionDate,Finding,Severity,HazardType,CorrectiveAction,DueDate,Status
+INS-0001,Laboratories,Lab Building A,A110 Chemical Storage,2026-11-02,Corrosives stored above eye level,High,Chemical storage,Move corrosives to lower cabinet; add shelf label,2026-11-09,Closed
+INS-0002,Greenhouses,Greenhouse 2,G2 Pesticide Store,2026-11-05,Spill kit missing absorbent pads,Medium,Spill response,Restock spill kit,2026-11-19,In progress
+INS-0003,Field Operations,Machine Shed,Welding Area,2026-11-12,Fire extinguisher inspection tag expired,High,Fire safety,Replace extinguisher and update tag,2026-11-19,Open
+INS-0004,Offices,Admin Building,Kitchen,2026-11-16,Extension cord used as permanent wiring,Low,Electrical,Install outlet or remove cord,2026-12-16,Open

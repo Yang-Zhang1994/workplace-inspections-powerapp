@@ -1,0 +1,24 @@
+Title,InspectionGroup,Building,Room
+LOC-001,Laboratories,Lab Building A,A101 Soil Lab
+LOC-002,Laboratories,Lab Building A,A102 Plant Pathology Lab
+LOC-003,Laboratories,Lab Building A,A110 Chemical Storage
+LOC-004,Laboratories,Lab Building A,A201 Molecular Lab
+LOC-005,Laboratories,Lab Building B,B101 Entomology Lab
+LOC-006,Laboratories,Lab Building B,B105 Autoclave Room
+LOC-007,Laboratories,Lab Building B,B120 Cold Room
+LOC-008,Greenhouses,Greenhouse 1,G1 Bay 1
+LOC-009,Greenhouses,Greenhouse 1,G1 Bay 2
+LOC-010,Greenhouses,Greenhouse 1,G1 Potting Area
+LOC-011,Greenhouses,Greenhouse 2,G2 Bay 1
+LOC-012,Greenhouses,Greenhouse 2,G2 Pesticide Store
+LOC-013,Greenhouses,Greenhouse 2,G2 Irrigation Room
+LOC-014,Field Operations,Machine Shed,Tractor Bay
+LOC-015,Field Operations,Machine Shed,Fuel Storage
+LOC-016,Field Operations,Machine Shed,Welding Area
+LOC-017,Field Operations,Orchard Storage,Cold Storage 1
+LOC-018,Field Operations,Orchard Storage,Packing Room
+LOC-019,Field Operations,Orchard Storage,Loading Dock
+LOC-020,Offices,Admin Building,Reception
+LOC-021,Offices,Admin Building,Meeting Room 1
+LOC-022,Offices,Admin Building,Kitchen
+LOC-023,Offices,Admin Building,Server Room
