@@ -1,5 +1,13 @@
 # Step 2 — The canvas app (about 2 hours)
 
+> **As built (2026-11-25).** The app was generated from the `Inspections` list (*Integrate → Power Apps →
+> Create an app*), giving one screen with a list (`RecordsGallery1`) and an edit/detail form (`Form1`).
+> The cascading pickers are `Dropdown1` (group), `Dropdown2` (building), `Dropdown3` (room) inside the
+> unlocked cards; the generated text inputs `DataCardValue2–4` are hidden. Validation is on
+> `SubmitFormButton1.OnSelect` using `DataCardValue5` (inspection date), `DataCardValue7` (severity),
+> `DataCardValue9` (corrective action) and `DataCardValue10` (due date). Findings are closed by editing
+> Status; there is no separate *Close finding* button.
+
 Three screens: a list of inspections, a form to record or edit one, and a detail view.
 
 ```

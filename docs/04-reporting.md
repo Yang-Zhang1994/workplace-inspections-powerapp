@@ -1,5 +1,8 @@
 # Step 4 — Reporting (about 20 min)
 
+> **As built (2026-11-25).** *Integrate → Power BI* isn't offered for lists on a personal OneDrive site in
+> this tenant, so reporting uses the list views below and the colour-coded Severity column.
+
 ## Power BI quick report (works in the browser, no Power BI Desktop needed)
 
 1. Open the **Inspections** list → **Integrate → Power BI → Visualize the list**.

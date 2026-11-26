@@ -8,8 +8,8 @@
 | `Inspections` list | SharePoint | Holds every finding and its photos |
 | *Workplace Inspections* canvas app | Power Apps, default environment | Publish changes, share |
 | *High-severity alert* flow | Power Automate | Keep the recipient current |
-| *Overdue reminder* flow | Power Automate | Daily 08:00 Pacific |
-| *Inspection overview* report | Power BI, from the list | Refreshes from the list |
+| *Overdue reminder* flow | Power Automate | Runs daily |
+| *Open findings by building*, *Overdue* | List views | Live; no refresh needed |
 
 ## Common tasks
 

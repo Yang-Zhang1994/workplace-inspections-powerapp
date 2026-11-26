@@ -1,5 +1,11 @@
 # Step 3 — Power Automate flows (about 30 min)
 
+> **As built (2026-11-25).** Flow 1 uses trigger *When an item is created* with the trigger condition
+> `@equals(triggerOutputs()?['body/Severity/Value'], 'High')` instead of a Condition step. Flow 2 runs daily:
+> *Get items* (Filter Query `Status ne 'Closed' and DueDate lt '<formatDateTime(utcNow(),'yyyy-MM-dd')>'`) →
+> *Create HTML table* (ID, Building, Room, Due, Status) → Condition `length(outputs('Get_items')?['body/value']) > 0`
+> → *Send an email (V2)*. Both tested; see the test plan.
+
 <https://make.powerautomate.com> → **+ Create**.
 
 ## Flow 1: alert on a high-severity finding
