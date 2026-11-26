@@ -16,7 +16,7 @@
 - **Add a room:** add a row to `Locations` (Title `LOC-nnn`, group, building, room). It appears in the app's pickers on next launch; no app change.
 - **Retire a room:** delete its `Locations` row. Past inspections keep their text values.
 - **Give someone access:** share the app (*Apps → … → Share*) **and** give them *Edit* on both lists — the app uses the user's own SharePoint permissions.
-- **Change the high-severity rule:** the 7-day rule is in `btnSave.OnSelect` on FormScreen; the alert condition is in Flow 1.
+- **Change the high-severity rule:** the 7-day rule is in `SubmitFormButton1.OnSelect`; the alert rule is Flow 1's trigger condition.
 
 ## Limits and known trade-offs
 

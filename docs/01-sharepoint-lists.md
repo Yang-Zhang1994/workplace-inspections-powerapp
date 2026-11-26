@@ -48,7 +48,7 @@ High shows red, Medium amber, Low green.
 ## 5. Note the site address
 
 Open the Inspections list and copy the address up to the list name, e.g.
-`https://northeastern-my.sharepoint.com/personal/zhang_yang15_northeastern_edu`.
+`https://<tenant>-my.sharepoint.com/personal/<your_account>`.
 Power Apps and Power Automate ask for this **site address**.
 
 **Screenshot for the README:** the Inspections list with the coloured Severity column → `screenshots/01-list.png`.
